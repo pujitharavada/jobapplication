@@ -1,4 +1,4 @@
-const API_URL = "https://v70zk8v3za.execute-api.ap-south-1.amazonaws.com/prod/apply";
+const API_URL = "https://hknpnatfk5.execute-api.us-east-1.amazonaws.com/prod/apply";
 
 document.getElementById('jobApplicationForm').addEventListener('submit', async (e) => {
     e.preventDefault();
